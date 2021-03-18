@@ -12,10 +12,10 @@
 
 To get a local copy up and running follow these simple example steps.
 
-Clone directory using GitHub:
-Click on "code" and copy the repo link
-In you terminal , type in:
-git clone "the copied link here"
+-Clone directory using GitHub:
+-Click on "code" and copy the repo link
+-In you terminal , type in:
+-git clone "the copied link here"
 
 ## Run tests
 
