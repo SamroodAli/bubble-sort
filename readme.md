@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Bubble Sort
 
 > Bubble Sort solution for both strings and integers using Ruby language.
 
