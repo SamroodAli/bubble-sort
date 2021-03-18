@@ -15,11 +15,10 @@
 - GitHub: [@githubhandle](https://github.com/SamroodAli)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/samrood-ali/)
 
-👤 **Author2**
+👤 **Stephanie Sakuhuni**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@githubhandle](stephanie041996)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/stephanie-sakuhuni-a81029140/)
 
 ## 🤝 Contributing
 
@@ -27,10 +26,10 @@
 - Microverse
 
 Feel free to check the [issues page](issues/).
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
 
 ## 📝 License
 
