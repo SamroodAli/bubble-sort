@@ -8,6 +8,18 @@
 
 - Ruby
 
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+Clone directory using GitHub.
+
+You can run by opening the file in your browser as well!
+
+## Run tests
+
+Run robocop.yml ." to check linter errors
+
 ## Authors
 
 👤 **Samrood Ali**
