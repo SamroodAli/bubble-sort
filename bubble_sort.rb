@@ -1,4 +1,5 @@
-  sorted = false
+def bubble_sort_words(arr)
+ sorted = false
   while !sorted
     sorted=true
     (0...arr.length-1).each do |i|
