@@ -27,8 +27,3 @@ def bubble_sort_words(arr)
   end
   arr
 end
-<<<<<<< HEAD
-=======
-
-
->>>>>>> e4c1f8cd0865ab7a97fed5ae690edb324a33eac2
