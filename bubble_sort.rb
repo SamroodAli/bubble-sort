@@ -14,7 +14,7 @@ def bubble_sort(arr)
 end
 
 # bubble sort for strings
-def bubble_sort_words(arr)
+def bubble_sort_by(arr)
   loop do
     sorted = false
     (arr.length - 1).times do |i|
