@@ -23,7 +23,13 @@ def bubble_sort_words(arr)
         sorted = true
       end
     end
+<<<<<<< HEAD
     break unless sorted
+=======
+    arr
+  else
+    p 'Please give a block when invoking bubble_sort_words function'
+>>>>>>> 9353ca0 (readme:include bubble sort info and image, improve setting up)
   end
   arr
 end
