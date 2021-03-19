@@ -27,7 +27,3 @@ def bubble_sort_words(arr)
   end
   arr
 end
-
-def bubble_sort_by(arr)
-  bubble_sort_words(arr) { |left, right| left.length <=> right.length }
-end
