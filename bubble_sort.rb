@@ -24,6 +24,7 @@ def bubble_sort_words(arr)
       end
     end
 <<<<<<< HEAD
+<<<<<<< HEAD
     break unless sorted
 =======
     arr
@@ -37,6 +38,16 @@ end
 
 def bubble_sort_by(arr)
   bubble_sort_words(arr) { |left, right| left.length <=> right.length }
+=======
+    break unless sorted
+  end
+  arr
+end
+
+
+def bubble_sort_by(arr)
+  bubble_sort_words(arr){|left,right| left.length <=> right.length} 
+>>>>>>> f59ff25 (fix:modularise bubble sort for words with bubble_sort_by)
 end
 =======
 >>>>>>> c4d8966 (build:remove development test code below bubble sort solutions)
